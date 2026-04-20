@@ -43,9 +43,11 @@ uvicorn main:app --reload
 
 5. Open `http://127.0.0.1:8000`
 
-```
+
 
 ## Project Structure
+
+
 ├── main.py
 ├── index.html
 ├── .env
@@ -53,7 +55,7 @@ uvicorn main:app --reload
 └── README.md
 
 
-```
+
 
 ## Notes
 
