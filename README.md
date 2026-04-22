@@ -110,5 +110,3 @@ Get a free API key from: https://aistudio.google.com
 - If Gemini’s API is under heavy load, you may occasionally see a 503 error; trying again later usually works.
 
 ---
-
-Feel free to open issues or extend the project (DOCX support, multiple models, etc.).
