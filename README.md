@@ -14,9 +14,11 @@ https://ai-resume-reviewer-gold-theta.vercel.app/
 
 ## Screenshots
 
-| Upload | Review |
-|---|---|
-| ![Upload screen](public/demo.png) | ![Review result](public/demo-result.png) |
+**Upload**
+<img src="public/demo.png" alt="Upload screen" width="850">
+
+**Review**
+<img src="public/demo-result.png" alt="Review result" width="850">
 
 ---
 
