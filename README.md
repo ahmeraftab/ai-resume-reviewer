@@ -8,7 +8,7 @@ Built with FastAPI and Google Gemini.
 
 ## Live Demo
 
-https://ai-resume-reviewer.vercel.app
+https://ai-resume-reviewer-gold-theta.vercel.app/
 
 ---
 
